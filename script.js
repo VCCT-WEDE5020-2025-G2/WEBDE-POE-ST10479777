@@ -8,3 +8,5 @@ menuOpenButton.addEventListener("click", () => {
 
 // Close the mobile menu when the close button is clicked
 menuCloseButton.addEventListener("click", () => menuOpenButton.click());
+
+

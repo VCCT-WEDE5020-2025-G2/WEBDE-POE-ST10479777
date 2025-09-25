@@ -279,6 +279,37 @@ gap: 23px;
 .menu-section .menu-list .menu-item .text {
     font-size: var(--font-size-m)
 }
+
+/*Reviews section styling*/
+.reviews-section {
+    background: var(--light-pink-color);
+    padding: 50px 0 100px;
+}
+
+.reviews-section .review {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.reviews-section .review .user-image {
+    width: 180px;
+    height: 180px;
+    border-radius: var(--border-radius-circle);
+    object-fit: cover;
+    margin-bottom: 50px;
+}
+
+.reviews-section .review .name {
+    margin-bottom: 16px;
+    font-size: var(--font-size-m);
+}
+
+.reviews-section .review .feedback {
+    line-height: 25px;
+
+}
 /*Responsive menu items*/
 @media screen and (max-width: 1024px) {
     .menu-section .menu-list {
