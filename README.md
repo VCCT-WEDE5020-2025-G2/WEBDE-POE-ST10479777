@@ -6,6 +6,8 @@ Domain & Hosting: R700-R1 500/ year
 Design Tools: R200
 Images & Branding: R0-R800
 Estimated Total: R900-R4 400
+## Change log 
+**Images:** Added 
 ## ST10479777
 ## Project Title
 Web development POE Part 1: The morning fix Grab-and-Go coffee bakes
