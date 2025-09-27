@@ -1,6 +1,6 @@
 ## Part 2 ST10479777
-##Part 1 Corrections:
-**Analysis:**The Grab-and-go cafe website in cape town is designed to promote the cafe by highlighting convenience and speed. Its purpose is to provide important information to its customers such as the menu, location and times. The target audience is young professionals and students who want a meal and a quick coffee to start their day on a high. The website is user-friendly with buttons and images. Overall the website follows the brands goals and objectives.
+## Part 1 Corrections:
+**Analysis:** The Grab-and-go cafe website in cape town is designed to promote the cafe by highlighting convenience and speed. Its purpose is to provide important information to its customers such as the menu, location and times. The target audience is young professionals and students who want a meal and a quick coffee to start their day on a high. The website is user-friendly with buttons and images. Overall the website follows the brands goals and objectives.
 **Budget:**
 Domain & Hosting: R700-R1 500/ year
 Design Tools: R200
