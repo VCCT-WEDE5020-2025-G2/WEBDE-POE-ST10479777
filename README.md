@@ -32,7 +32,7 @@ Got styling ideas from youtube videos/tutorials
 - https://github.com/ST10479777/WEBDE-POE-ST10479777
 ## References 
 - **Reviews** 
-- C Portraits of a young person [Pexel]. Available at: https://www.pexels.com/photo/woman-wearing-black-eyeglasses-1239291/ (accessed: 13 September 2025)
+- Figure 1: C Portraits of a young person [Pexel]. Available at: https://www.pexels.com/photo/woman-wearing-black-eyeglasses-1239291/ (accessed: 13 September 2025)
 - Figure 2: Teymi. (2023). Images of a young lady [Pexel]. Available at: https://www.pexels.com/photo/outdoor-portrait-of-woman-in-sunlit-environment-33999353/ (accessed: 13 September 2025)
 - Figure 3: Pinterest. (2023). Image of young black model [Pinterest]. Available at: https://za.pinterest.com/pin/54184001762709889/ (accessed: 13 September 2025)
 - Figure 4: Freepik. (2014). Portrait of a young professional man [Pinterest]. Available at: https://za.pinterest.com/pin/369013763239266950/ (accessed: 13 September 2025)
