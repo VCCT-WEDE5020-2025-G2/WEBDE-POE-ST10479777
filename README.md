@@ -12,7 +12,7 @@ Got styling ideas from youtube videos/tutorials
 - mbedev 2023
 - Brian Design (2020)
 - Mahmoud Ibrahim (2025)
-**Images:** 
+- **Images:** 
 - Changed the Review images from part 1. Figure 1: (Lima, 2018) Figure 2: (Teymi, 2023) Figure 3: (Pinterest, 2023) Figure 4: (Freepik, 2014) Figure 5: (molly, 2023) Figure 6: (Freepik, 2014) Figure 7: (hmqkaka, n.d)
 - Added images to the gallery that matched the cafe's ambiance. Figure 1: (Cuddly Plushly, 2024) Figure 2: (Bing, 2024) Figure 3: (Jobs Barista,  n.d) Figure 4 (Money mint, 2022) Figure 5: (Karma Coffee cafe, 2024) figure 6: (Coffee vogue, 2025) Figure 7: (Kent Coffee, 2025) Figure 8: (Fluster Nut Butter, 2016)
 ## References 
