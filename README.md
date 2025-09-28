@@ -10,7 +10,7 @@ In Part 2 I created CSS designs that are responssive across all mobile screens. 
 ## Challenges and Solutions
 - **Challenge:** some images did not always scale correctly pixel (px)
 - **Solution:** I adjusted sizing by combining percentages (%) with pixels (px)
-- **Challenge:** Maintainin responsiveness while keeping the images and texts aligned
+- **Challenge:** Maintaining responsiveness while keeping the images and texts aligned
 - **Solution:** I used relative units like (% and widths) along with max-width and height.
 ## Part 1 Corrections:
 **Analysis:** 
