@@ -8,10 +8,10 @@ In Part 2 I created CSS designs that are responssive across all mobile screens. 
 ## Technology Used
 - Visual Studio
 ## Challenges and Solutions
-- **Challenge:** some images did not alsways scale correctly pixel (px)
+- **Challenge:** some images did not always scale correctly pixel (px)
 - **Solution:** I adjusted sizing by combining percentages (%) with pixels (px)
 - **Challenge:** Maintainin responsiveness while keeping the images and texts aligned
-- **Solution:** I used reelative units like (% and widths) along with max-width and height.
+- **Solution:** I used relative units like (% and widths) along with max-width and height.
 ## Part 1 Corrections:
 **Analysis:** 
 - The Grab-and-go cafe website in cape town is designed to promote the cafe by highlighting convenience and speed. Its purpose is to provide important information to its customers such as the menu, location and times. The target audience is young professionals and students who want a meal and a quick coffee to start their day on a high. The website is user-friendly with buttons and images. Overall the website follows the brands goals and objectives.
