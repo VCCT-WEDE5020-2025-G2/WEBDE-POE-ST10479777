@@ -15,6 +15,8 @@ Got styling ideas from youtube videos/tutorials
 - **Images:** 
 - Changed the Review images from part 1. Figure 1: (Lima, 2018) Figure 2: (Teymi, 2023) Figure 3: (Pinterest, 2023) Figure 4: (Freepik, 2014) Figure 5: (molly, 2023) Figure 6: (Freepik, 2014) Figure 7: (hmqkaka, n.d)
 - Added images to the gallery that matched the cafe's ambiance. Figure 1: (Cuddly Plushly, 2024) Figure 2: (Bing, 2024) Figure 3: (Jobs Barista,  n.d) Figure 4 (Money mint, 2022) Figure 5: (Karma Coffee cafe, 2024) figure 6: (Coffee vogue, 2025) Figure 7: (Kent Coffee, 2025) Figure 8: (Fluster Nut Butter, 2016)
+## GitHub Link
+- https://github.com/ST10479777/WEBDE-POE-ST10479777
 ## References 
 - **Reviews** 
 - C Portraits of a young person [Pexel]. Available at: https://www.pexels.com/photo/woman-wearing-black-eyeglasses-1239291/ (accessed: 13 September 2025)
