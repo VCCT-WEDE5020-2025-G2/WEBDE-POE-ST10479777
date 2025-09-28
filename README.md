@@ -1,6 +1,6 @@
 ## Part 2 ST10479777
 ## Overview
-In Part 2 I created CSS designs that are responssive across all mobile screens. The goal was to practice advanced CSS without relying on images while ensuing accessiblility and responsiveness
+In Part 2 I created CSS designs that are responssive across all mobile screens. The goal was to practice advanced CSS without relying on images while ensuring accessiblility and responsiveness
 ## Features
 - External images
 - Responsive design on tables, desktops and cell phones
