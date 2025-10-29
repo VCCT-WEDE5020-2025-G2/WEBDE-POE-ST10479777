@@ -12,36 +12,31 @@
 <body>
     <!--Navigation bar-->
    <header> 
-    <nav class ="navbar section-content">
-        <a href="#" class="nav-logo">
-            <h2 class="logo-text">☕G&B COFFEE</h2> 
-        </a>
-        <ul class="nav-menu">
-            <button id="menu-close-button" class="fas fa-times"></button>
+  <nav class="navbar section-content">
+    <a href="#" class="nav-logo">
+      <h2 class="logo-text">☕ G&B COFFEE</h2>
+    </a>
 
-            <li class="nav-item">
-            <a href="#" class="nav-link">Home</a>
-            </li>
-            <li class="nav-item">
-            <a href="#" class="nav-link">About</a>
-            </li><li class="nav-item">
-            <a href="#" class="nav-link">Menu</a>
-            </li><li class="nav-item">
-            <a href="#" class="nav-link">Reviews</a>
-            </li><li class="nav-item">
-            <a href="#" class="nav-link">Gallery</a>
-            </li><li class="nav-item">
-            <a href="#" class="nav-link">Contact</a>
-            </li>
-        </ul>
+    <ul class="nav-menu">
+      <button id="menu-close-button" class="fas fa-times"></button>
 
-        <button id="menu-open-button" class="fas fa-bars"></button>
-    </nav>
-   </header>
+      <li class="nav-item"><a href="#home" class="nav-link">Home</a></li>
+      <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
+      <li class="nav-item"><a href="#menu" class="nav-link">Menu</a></li>
+      <li class="nav-item"><a href="#reviews" class="nav-link">Reviews</a></li>
+      <li class="nav-item"><a href="#gallery" class="nav-link">Gallery</a></li>
+      <li class="nav-item"><a href="#contact" class="nav-link">Contact</a></li>
+      <li class="nav-item"><a href="#enquiry" class="nav-link">Enquiry</a><li>
+    </ul>
+
+    <button id="menu-open-button" class="fas fa-bars"></button>
+  </nav>
+</header>
+
 
     <main>
         <!--Hero section-->
-        <section class="hero-section">
+        <section id ="home" class="hero-section">
             <div class="section-content">
                 <div class="hero-details">
                     <h2 class="title"> Best Coffee in Town </h2>
@@ -61,31 +56,31 @@
         </section>
 
         <!--About section-->
-        <section class="about-section">
-            <div class="section-content">
-                <div class="about image-wrapper">
-                    <image src="images/about.jpg" alt="About"
-                    class="about-image">
-                </div>
-                <div class="about-details">
-                    <h2 class="section-title">About Us</h2>
-                    <p class="text">
-                        The morning fix grab and go coffee bakes is cozy corner in Cape Town created with students and professionals in mind. We know mornings can be busy and draining so our goal is to offer you the perfect balance between work life and convenience.
-                        Whether you’re rushing to class or the office or just need a quick pick-me-up, we’ve got you covered. From our freshly baked pastries to our delicious coffees, every item is made with love and care to start your day with purpose and productivity.
-                        Your day deserves a good start, let us be your fix.
-                    </p>
-                    <div class="social-link-list">
-                        <a href="#" class="social-link"><i class="fa-brands fa-facebook"></i></a>
-                        <a href="#" class="social-link"><i class="fa-brands fa-instagram"></i></a>
-                        <a href="#" class="social-link"><i class="fa-brands fa-twitter"></i></a>
-                    </div>
-                </div>
+<section id="about" class="about-section">
+    <div class="section-content">
+        <div class="about image-wrapper">
+            <img src="images/about.jpg" alt="About" class="about-image">
+        </div>
+        <div class="about-details">
+            <h2 class="section-title">About Us</h2>
+            <p class="text">
+                The morning fix grab and go coffee bakes is cozy corner in Cape Town created with students and professionals in mind. We know mornings can be busy and draining so our goal is to offer you the perfect balance between work life and convenience.
+                Whether you’re rushing to class or the office or just need a quick pick-me-up, we’ve got you covered. From our freshly baked pastries to our delicious coffees, every item is made with love and care to start your day with purpose and productivity.
+                Your day deserves a good start, let us be your fix.
+            </p>
+            <div class="social-link-list">
+                <a href="#" class="social-link"><i class="fa-brands fa-facebook"></i></a>
+                <a href="#" class="social-link"><i class="fa-brands fa-instagram"></i></a>
+                <a href="#" class="social-link"><i class="fa-brands fa-twitter"></i></a>
             </div>
-        </section>
+        </div>
+    </div>
+</section>
+
 
 
         <!--Menu section-->
-        <section class="menu-section">
+        <section id="menu" class="menu-section">
             <h2 class="section-title">Our Menu</h2>
             <div class="section-content">
                 <ul class="menu-list">
@@ -123,7 +118,7 @@
             </div>
         </section>
         <!--Reviews section-->
-        <section class="reviews-section">
+        <section id="reviews" class="reviews-section">
             <h2 class="section-title">Reviews</h2>
             <div class="section-content">
                 <div class="slider-container">
@@ -171,7 +166,7 @@
         </section>
 
         <!--Gallery section-->
-        <section class="gallery-section">
+        <section id="gallery" class="gallery-section">
             <h2 class="section-title">Gallery</h2>
             <div class="section-content">
                 <ul class="gallery-list">
@@ -203,7 +198,7 @@
             </div>
         </section>
         <!--Contact section-->
-        <section class="contact-section">
+        <section id="contact" class="contact-section">
             <h2 class="section-title"> Contact Us</h2>
             <div class="section-content">
                 <ul class="contact-info-list">
@@ -238,6 +233,20 @@
             </div>
         </section>
 
+        <!--Enquiry section-->
+        <section id="enquiry" class="enquiry-section">
+            <h2 class="section-title"> Enquiry</h2>
+            <div class="section-content">
+                <form action="#" class="enquiry-form">
+                    <input type="text" placeholder="Your name" class="form-input" required>
+                    <input type="email" placeholder="Your email" class="form-input" required>
+                    <input type="text" placeholder="Subject" class="form-input" required>
+                    <textarea placeholder="Your enquiry" class="form-input" required></textarea>
+                    <button class="submit-button"> Submit</button>
+                </form>
+            </div>
+        </section>
+
         <!--Footer section-->
         <footer class="footer-section">
             <div class="section-content">
@@ -254,6 +263,6 @@
 
             </p>
     </main>
-    <script src="script.js"> </script>
+    <script src="js/script.js"> </script>
 </body>
 </html>
