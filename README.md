@@ -52,3 +52,12 @@ Got styling ideas from youtube videos/tutorials
 - mbedev 2025 [YouTube] Responsive Hero section.  Available at: https://www.youtube.com/watch?v=5DF7GCI9Nyk&list=WL&index=1&t=148s (accessed: 17 September 2025)
 - Brian Design 2025 [Youtube] HTML, CSS & JavaScript. Available at: https://www.youtube.com/watch?v=FazgJVnrVuI&t=70s (accessed: 17 September 2025)
 - CodeVibes-Mahmoud Ibrahim (2025) [Youtube] HTML, CSS & JavaScript.  Available at: https://www.youtube.com/watch?v=pZI9pDPgLiE (accessed 09 September 2025)
+
+## Part 3
+## Part 2 corrections
+- separated html pages
+- website responsive on all devices
+- naviagtion
+## References
+- **YouTube:**
+- OpenJavasScript, 2023 [YouTube] Maps with Markers Using Leaflet Java script tutorial. Available at: https://www.youtube.com/watch?v=rdPNRZBSPdQ (accessed: 30 October 2025)
