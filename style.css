@@ -345,10 +345,18 @@ gap: 23px;
     background: var(--light-pink-color);
 }
 
-.contact-section {
-    text-align: center;
-    padding: 20px ;
+.contact-layout {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; 
+    gap: 20px;  
+    flex-wrap: wrap;
+    margin-top: 20px; 
+    
 }
+
+
+
 
 .contact-section .section-content {
     display: flex;
