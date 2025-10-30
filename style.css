@@ -345,6 +345,11 @@ gap: 23px;
     background: var(--light-pink-color);
 }
 
+.contact-section {
+    text-align: center;
+    padding: 20px ;
+}
+
 .contact-section .section-content {
     display: flex;
     gap: 48px;
@@ -629,4 +634,10 @@ gap: 23px;
         flex-direction: column;
         gap: 20px;
     }
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+    margin-top: 20px;
 }
