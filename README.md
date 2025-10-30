@@ -61,4 +61,5 @@ Got styling ideas from youtube videos/tutorials
 ## References
 - **YouTube:**
 - OpenJavasScript, 2023 [YouTube] Maps with Markers Using Leaflet Java script tutorial. Available at: https://www.youtube.com/watch?v=rdPNRZBSPdQ (accessed: 29 October 2025)
-- dcode, 2023 [YouTube] Creating a stylish search bar for your website: HTML and CSS tutorial. Available at: https://www.youtube.com/watch?v=f6ocDCkCmhM (accessed: 30 October 2025) 
+- dcode, 2023 [YouTube] Creating a stylish search bar for your website: HTML and CSS tutorial. Available at: https://www.youtube.com/watch?v=f6ocDCkCmhM (accessed: 30 October 2025)
+- CodingNepal, 2020 [YouTube] Search bar with auto complete suggestions using HTML, CSS and JavaScript. Available at: https://www.youtube.com/watch?v=QxMBHi_ZiT8 (accessed 30 October 2025)
