@@ -55,7 +55,6 @@ Got styling ideas from youtube videos/tutorials
 
 ## Part 3
 ## Part 2 corrections
-- separated html pages
 - website responsive on all devices
 - naviagtion
 ## References
