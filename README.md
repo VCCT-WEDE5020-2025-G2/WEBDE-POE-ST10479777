@@ -57,6 +57,9 @@ Got styling ideas from youtube videos/tutorials
 ## Part 2 corrections
 - website responsive on all devices
 - naviagtion
+
+## GitHub Link
+https://github.com/VCCT-WEDE5020-2025-G2/WEBDE-POE-ST10479777/tree/main
 ## References
 - **YouTube:**
 - OpenJavasScript, 2023 [YouTube] Maps with Markers Using Leaflet Java script tutorial. Available at: https://www.youtube.com/watch?v=rdPNRZBSPdQ (accessed: 29 October 2025)
