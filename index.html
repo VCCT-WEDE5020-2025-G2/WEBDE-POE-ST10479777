@@ -253,18 +253,24 @@
         </section>
 
         <!--Enquiry section-->
-        <section id="enquiry" class="enquiry-section">
-            <h2 class="section-title"> Enquiry</h2>
-            <div class="section-content">
-                <form action="#" class="enquiry-form">
-                    <input type="text" placeholder="Your name" class="form-input" required>
-                    <input type="email" placeholder="Your email" class="form-input" required>
-                    <input type="text" placeholder="Subject" class="form-input" required>
-                    <textarea placeholder="Your enquiry" class="form-input" required></textarea>
-                    <button class="submit-button"> Submit</button>
-                </form>
-            </div>
-        </section>
+      <section id="enquiry" class="enquiry-section">
+        <form id="enquiryForm">
+        <input type="text" id="name" placeholder="Your name" required>
+        <input type="email" id="email" placeholder="Your email" required>
+
+        <select id="inquiryType" required>
+            <option value="">Select Inquiry Type</option>
+            <option value="product">Product / Service</option>
+            <option value="volunteer">Volunteer</option>
+            <option value="sponsor">Sponsorship</option>
+        </select>
+
+        <textarea id="message" placeholder="Your enquiry" required></textarea>
+        <button type="submit" class="submit-button">Submit</button>
+        </form>
+
+        <p id="responseMessage"></p>
+     </section>
 
         <!--Footer section-->
         <footer class="footer-section">
