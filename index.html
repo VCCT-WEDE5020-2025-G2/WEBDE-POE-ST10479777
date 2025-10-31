@@ -242,18 +242,34 @@
                  <div class="contact-layout">
                 <div id="map"></div>
                 
-                <form action="#" class="contact-form">
-                    <input type="text" placeholder="Your name" class="form-input" required>
-                    <input type="email" placeholder="Your email" class="form-input" required>
-                    <textarea placeholder="Your message" class="form-input" required></textarea>
-                    <button class="submit-button"> Submit</button>
-                </form>
-            </div>
-           
-        </section>
+               
+            <div class="contact-layout">
+
+               <form id="contact-form" action="https://formspree.io/f/mzzpwzrn" method="POST">
+            
+            <input type="text" id="name" placeholder="Your name" required>
+            <input type="email" id="email" placeholder="Your email" required>
+            <textarea id="message" placeholder="Your enquiry" required></textarea>
+    
+            <input type="text" name="_gotcha" style="display:none">
+               
+            <input type="hidden" name="_subject" value="Thank you for contacting us!">
+            <input type="hidden" name="_replyto" value="youremail@example.com">
+            <input type="hidden" name="_next" value="https://yourwebsite.com/thank-you">
+            <button type="submit">Submit</button>
+        </form>
+                </div>
+
+                <div class="map-container">
+                <div id="map"></div>
+        </div>
+
+  </div>
+</section>
 
         <!--Enquiry section-->
       <section id="enquiry" class="enquiry-section">
+        <h2 class="section-title"> Enquiry</h2>
         <form id="enquiryForm">
         <input type="text" id="name" placeholder="Your name" required>
         <input type="email" id="email" placeholder="Your email" required>
@@ -288,6 +304,7 @@
 
             </p>
     </main>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
     <script src="js/script.js"> </script>
 </body>
 </html>

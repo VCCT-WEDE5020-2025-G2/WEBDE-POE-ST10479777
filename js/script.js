@@ -116,7 +116,7 @@ enquiryForm.addEventListener("submit", function (event) {
   let reply = "";
 
   if (inquiryType === "product") {
-    reply = `Thank you, ${name}! Our premium coffee beans cost R120 per bag. We'll email you details soon.`;
+    reply = `Thank you, ${name}! Our Product specialist will reach out to you shortly regarding your inquiry.`;
   } else if (inquiryType === "volunteer") {
     reply = `Thanks, ${name}! We’re excited about your interest in volunteering. Volunteer days are every Saturday from 9 AM to 2 PM.`;
   } else if (inquiryType === "sponsor") {
@@ -130,5 +130,36 @@ enquiryForm.addEventListener("submit", function (event) {
   // optional: clear form after submission
   enquiryForm.reset();
 });
+
+document.addEventListener('DOMContentLoaded', function () {
+            // Load saved form data from localStorage if available
+            const form = document.getElementById('contact-form');
+            const savedData = JSON.parse(localStorage.getItem('contactFormData'));
+
+            if (savedData) {
+                document.getElementById('name').value = savedData.name || '';
+                document.getElementById('email').value = savedData.email || '';
+                document.getElementById('message').value = savedData.message || '';
+            }
+
+            form.addEventListener('submit', function (event) {
+                event.preventDefault(); // Prevent the default form submission
+
+                // Save form data to localStorage
+                const formData = {
+                    name: document.getElementById('name').value,
+                    email: document.getElementById('email').value,
+                    message: document.getElementById('message').value,
+                };
+                localStorage.setItem('contactFormData', JSON.stringify(formData));
+
+                // Clear form fields and display a confirmation message
+                form.reset();
+                alert('Your message has been sent!');
+
+                // Clear saved data from localStorage
+                localStorage.removeItem('contactFormData');
+            });
+        });
 
          
