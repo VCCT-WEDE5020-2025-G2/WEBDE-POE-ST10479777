@@ -71,7 +71,7 @@ This project was to demonstrate practical skills in HTML, CSS and JavaScript.
 - **Footer:** contains social media links
 - **Responsive:** works across desktop, tablet, and mobile devices
 - **JavaScript interactivity:** adds dynamic elements such as validation and event handling
-## Screenshots
+## Screenshots (Phone)
 <img width="467" height="635" alt="Screenshot 2025-11-02 223102" src="https://github.com/user-attachments/assets/b446de5f-7a76-4c2b-b45d-9faa8a398a32" />
 <img width="493" height="636" alt="Screenshot 2025-11-02 224046" src="https://github.com/user-attachments/assets/20bad248-9bae-4af0-92ce-6a831084773e" />
 <img width="473" height="628" alt="Screenshot 2025-11-02 224303" src="https://github.com/user-attachments/assets/57a95ac6-e639-4668-8bd3-5ed5ea28715e" />
@@ -80,7 +80,15 @@ This project was to demonstrate practical skills in HTML, CSS and JavaScript.
 <img width="499" height="641" alt="Screenshot 2025-11-02 224456" src="https://github.com/user-attachments/assets/9d5ca786-df77-4e45-825b-4ff355dc7b8a" />
 <img width="489" height="646" alt="Screenshot 2025-11-02 224729" src="https://github.com/user-attachments/assets/bd896215-7062-452c-8d03-c0dddef3475e" />
 <img width="514" height="635" alt="Screenshot 2025-11-03 044724" src="https://github.com/user-attachments/assets/85d50a99-a127-4acf-836b-54fe790f48b7" />
-
+## Screenshots (Tablet)
+<img width="1038" height="611" alt="Tablet 1 0" src="https://github.com/user-attachments/assets/e6aaacb4-0a7c-4df7-9226-97691d710458" />
+<img width="1072" height="618" alt="Tablet 2 0" src="https://github.com/user-attachments/assets/cf0f2dd1-defd-403e-8295-bb552813d63f" />
+<img width="1068" height="635" alt="Tablet 3 0" src="https://github.com/user-attachments/assets/a3efc9f2-4886-4604-bbb2-f37808febd5b" />
+<img width="1059" height="635" alt="Tablet 4 0" src="https://github.com/user-attachments/assets/4a9eb0a3-4f08-4979-af80-d05c91f54a7b" />
+<img width="1064" height="638" alt="Tablet 5 0" src="https://github.com/user-attachments/assets/b2137df0-7647-4ce3-99ef-f9db1ab9aaf0" />
+<img width="1072" height="632" alt="Tablet 6 0" src="https://github.com/user-attachments/assets/a4286f6b-d039-4130-9cec-bdca63374e99" />
+<img width="1068" height="636" alt="Tablet 7 0" src="https://github.com/user-attachments/assets/baab8565-7912-4c30-b365-4ae5fa27eb2b" />
+<img width="1060" height="638" alt="Tablet 8 0" src="https://github.com/user-attachments/assets/b5def83f-fa33-4b27-b191-c510bb6903f3" />
 
 ## GitHub Link
 https://github.com/VCCT-WEDE5020-2025-G2/WEBDE-POE-ST10479777/tree/main
