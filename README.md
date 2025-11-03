@@ -81,6 +81,7 @@ This project was to demonstrate practical skills in HTML, CSS and JavaScript.
 <img width="499" height="641" alt="Screenshot 2025-11-02 224456" src="https://github.com/user-attachments/assets/9d5ca786-df77-4e45-825b-4ff355dc7b8a" />
 <img width="489" height="646" alt="Screenshot 2025-11-02 224729" src="https://github.com/user-attachments/assets/bd896215-7062-452c-8d03-c0dddef3475e" />
 <img width="514" height="635" alt="Screenshot 2025-11-03 044724" src="https://github.com/user-attachments/assets/85d50a99-a127-4acf-836b-54fe790f48b7" />
+
 ## Screenshots (Tablet)
 
 <img width="1038" height="611" alt="Tablet 1 0" src="https://github.com/user-attachments/assets/e6aaacb4-0a7c-4df7-9226-97691d710458" />
