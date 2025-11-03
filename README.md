@@ -58,6 +58,22 @@ Got styling ideas from youtube videos/tutorials
 - website responsive on all devices
 - naviagtion
 
+## Website Purpose
+- The purpose of this website is to promote GBB Coffee, a modern cafe that offers a cozy environment and high quality coffee products. I serves as an online presence for the cafe, allowing users to learn more about the brand and its offerings, View menus and gallery images and contact the cafe for enquiries and feedback.
+This project was to demonstrate practical skills in HTML, CSS and JavaScript.
+
+## Features
+- **Homepage:** welcomes visitors and introduces the cafe
+- **Menu:** displays food and drinks offered by the cafe
+- **Gallery section:** displays the cafe's ambiance and images of customers inside the cafe
+- **Contact Section:** includes a contact form for users to submit messages
+- **Enquiry Section:**
+- **Footer:** contains social media links
+- **Responsive:** works across desktop, tablet, and mobile devices
+- **JavaScript interactivity:** adds dynamic elements such as validation and event handling
+## Screenshots
+
+
 ## GitHub Link
 https://github.com/VCCT-WEDE5020-2025-G2/WEBDE-POE-ST10479777/tree/main
 ## References
