@@ -67,7 +67,7 @@ This project was to demonstrate practical skills in HTML, CSS and JavaScript.
 - **Menu:** displays food and drinks offered by the cafe
 - **Gallery section:** displays the cafe's ambiance and images of customers inside the cafe
 - **Contact Section:** includes a contact form for users to submit messages
-- **Enquiry Section:**
+- **Enquiry Section:** allows users to make specfic enquiries, with built-in form validation using JavaScript
 - **Footer:** contains social media links
 - **Responsive:** works across desktop, tablet, and mobile devices
 - **JavaScript interactivity:** adds dynamic elements such as validation and event handling
