@@ -91,7 +91,7 @@ This project was to demonstrate practical skills in HTML, CSS and JavaScript.
 <img width="1064" height="638" alt="Tablet 5 0" src="https://github.com/user-attachments/assets/b2137df0-7647-4ce3-99ef-f9db1ab9aaf0" />
 <img width="1072" height="632" alt="Tablet 6 0" src="https://github.com/user-attachments/assets/a4286f6b-d039-4130-9cec-bdca63374e99" />
 <img width="1068" height="636" alt="Tablet 7 0" src="https://github.com/user-attachments/assets/baab8565-7912-4c30-b365-4ae5fa27eb2b" />
-<img width="1060" height="638" alt="Tablet 8 0" src="https://github.com/user-attachments/assets/b5def83f-fa33-4b27-b191-c510bb6903f3" />
+
 
 ## GitHub Link
 https://github.com/VCCT-WEDE5020-2025-G2/WEBDE-POE-ST10479777/tree/main
