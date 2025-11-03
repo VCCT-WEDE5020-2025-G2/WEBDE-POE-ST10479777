@@ -56,7 +56,7 @@ Got styling ideas from youtube videos/tutorials
 ## Part 3
 ## Part 2 corrections
 - website responsive on all devices
-- naviagtion
+- navigation
 
 ## Website Purpose
 - The purpose of this website is to promote GBB Coffee, a modern cafe that offers a cozy environment and high quality coffee products. I serves as an online presence for the cafe, allowing users to learn more about the brand and its offerings, View menus and gallery images and contact the cafe for enquiries and feedback.
