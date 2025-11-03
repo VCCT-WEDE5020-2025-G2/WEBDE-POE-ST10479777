@@ -102,4 +102,4 @@ https://github.com/VCCT-WEDE5020-2025-G2/WEBDE-POE-ST10479777/tree/main
 - CodingNepal, 2020 [YouTube] Search bar with auto complete suggestions using HTML, CSS and JavaScript. Available at: https://www.youtube.com/watch?v=QxMBHi_ZiT8 (accessed: 30 October 2025)
 - O Tech school, 20244 [YouTube] Creating a lightbox gallery with HTML, CSS & JavaScript. Available at: https://www.youtube.com/watch?v=OspQQSjFL1A (accessed: 30 October 2025)
 - GreatStack, 2022 [YouTube] How to Make working contact form with JavaScript. Available at: https://www.youtube.com/watch?v=sGQSz22U8VM (accessed: 31 October 2025)
-- 
+
