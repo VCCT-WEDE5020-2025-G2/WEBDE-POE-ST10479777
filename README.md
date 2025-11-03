@@ -92,7 +92,10 @@ This project was to demonstrate practical skills in HTML, CSS and JavaScript.
 <img width="1072" height="632" alt="Tablet 6 0" src="https://github.com/user-attachments/assets/a4286f6b-d039-4130-9cec-bdca63374e99" />
 <img width="1068" height="636" alt="Tablet 7 0" src="https://github.com/user-attachments/assets/baab8565-7912-4c30-b365-4ae5fa27eb2b" />
 
-
+## Change log
+- added an enquiry page
+- added an email for the contact form page
+- included a lightbox for gallery page
 ## GitHub Link
 https://github.com/VCCT-WEDE5020-2025-G2/WEBDE-POE-ST10479777/tree/main
 ## References
