@@ -270,22 +270,19 @@
         <!--Enquiry section-->
       <section id="enquiry" class="enquiry-section">
         <h2 class="section-title"> Enquiry</h2>
-        <form id="enquiryForm">
-        <input type="text" id="name" placeholder="Your name" required>
-        <input type="email" id="email" placeholder="Your email" required>
-
-        <select id="inquiryType" required>
-            <option value="">Select Inquiry Type</option>
-            <option value="product">Product / Service</option>
-            <option value="volunteer">Volunteer</option>
-            <option value="sponsor">Sponsorship</option>
-        </select>
-
-        <textarea id="message" placeholder="Your enquiry" required></textarea>
-        <button type="submit" class="submit-button">Submit</button>
-        </form>
-
-        <p id="responseMessage"></p>
+       <form id="enquiryForm">
+            <input type="text" id="enquiryName" placeholder="Your name" required>
+            <input type="email" id="enquiryEmail" placeholder="Your email" required>
+            <select id="inquiryType" required>
+                <option value="">Select Inquiry Type</option>
+                <option value="product">Product / Service</option>
+                <option value="volunteer">Volunteer</option>
+                <option value="sponsor">Sponsorship</option>
+            </select>
+            <textarea id="enquiryMessage" placeholder="Your enquiry" required></textarea>
+            <button type="submit">Submit</button>
+            </form>
+            <p id="responseMessage"></p>
      </section>
 
         <!--Footer section-->

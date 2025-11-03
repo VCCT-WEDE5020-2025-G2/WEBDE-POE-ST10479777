@@ -85,51 +85,47 @@ lightbox.addEventListener('click', (e) => {
 });
 
 // ENQUIRY FORM VALIDATION AND RESPONSE
-const enquiryForm = document.getElementById("enquiryForm");
-const responseMessage = document.getElementById("responseMessage");
+document.addEventListener("DOMContentLoaded", function () {
+  const enquiryForm = document.getElementById("enquiryForm");
+  const responseMessage = document.getElementById("responseMessage");
 
-enquiryForm.addEventListener("submit", function (event) {
-  event.preventDefault(); // prevent the form from refreshing the page
+  enquiryForm.addEventListener("submit", function (event) {
+    event.preventDefault();
 
-  const name = document.getElementById("name").value.trim();
-  const email = document.getElementById("email").value.trim();
-  const inquiryType = document.getElementById("inquiryType").value;
-  const message = document.getElementById("message").value.trim();
+    const name = document.getElementById("enquiryName").value.trim();
+    const email = document.getElementById("enquiryEmail").value.trim();
+    const inquiryType = document.getElementById("inquiryType").value;
+    const message = document.getElementById("enquiryMessage").value.trim();
 
-  // basic validation
-  if (name === "" || email === "" || inquiryType === "" || message === "") {
-    responseMessage.textContent = "Please fill in all fields before submitting.";
-    responseMessage.style.color = "red";
-    return;
-  }
+    if (name === "" || email === "" || inquiryType === "" || message === "") {
+      responseMessage.textContent = "Please fill in all fields before submitting.";
+      responseMessage.style.color = "red";
+      return;
+    }
 
-  // email validation for Gmail, iCloud, etc.
-  const validDomains = ["gmail.com", "icloud.com", "yahoo.com", "outlook.com"];
-  const emailDomain = email.split("@")[1];
-  if (!validDomains.includes(emailDomain)) {
-    responseMessage.textContent = " Please use a valid email address (e.g. Gmail, iCloud, Outlook).";
-    responseMessage.style.color = "red";
-    return;
-  }
+    const validDomains = ["gmail.com", "icloud.com", "yahoo.com", "outlook.com"];
+    const emailDomain = email.split("@")[1];
+    if (!validDomains.includes(emailDomain)) {
+      responseMessage.textContent = "Please use a valid email address (e.g. Gmail, iCloud, Outlook).";
+      responseMessage.style.color = "red";
+      return;
+    }
 
-  // response logic based on inquiry type
-  let reply = "";
+    let reply = "";
+    if (inquiryType === "product") {
+      reply = `Thank you, ${name}! Our Product specialist will reach out to you shortly regarding your inquiry.`;
+    } else if (inquiryType === "volunteer") {
+      reply = `Thanks, ${name}! We’re excited about your interest in volunteering. Volunteer days are every Saturday from 9 AM to 2 PM.`;
+    } else if (inquiryType === "sponsor") {
+      reply = `Thank you, ${name}! We appreciate your interest in sponsoring our café. Our manager will reach out to you soon.`;
+    }
 
-  if (inquiryType === "product") {
-    reply = `Thank you, ${name}! Our Product specialist will reach out to you shortly regarding your inquiry.`;
-  } else if (inquiryType === "volunteer") {
-    reply = `Thanks, ${name}! We’re excited about your interest in volunteering. Volunteer days are every Saturday from 9 AM to 2 PM.`;
-  } else if (inquiryType === "sponsor") {
-    reply = `Thank you, ${name}! We appreciate your interest in sponsoring our café. Our manager will reach out to you soon.`;
-  }
-
-  // show the message on the page
-  responseMessage.textContent = reply;
-  responseMessage.style.color = "green";
-
-  // optional: clear form after submission
-  enquiryForm.reset();
+    responseMessage.textContent = reply;
+    responseMessage.style.color = "green";
+    enquiryForm.reset();
+  });
 });
+
 
 document.addEventListener('DOMContentLoaded', function () {
             // Load saved form data from localStorage if available
